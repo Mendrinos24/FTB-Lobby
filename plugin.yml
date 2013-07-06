@@ -1,0 +1,4 @@
+name: FTBLobby
+version: 0.1
+main: project.common.LobbyStuff
+author: Mendrinos_
